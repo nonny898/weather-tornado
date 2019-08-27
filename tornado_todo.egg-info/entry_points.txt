@@ -1,0 +1,3 @@
+[console_scripts]
+serve_app = __init__:main
+
