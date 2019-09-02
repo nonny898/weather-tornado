@@ -15,11 +15,13 @@ class HelloWorld(RequestHandler):
         rain = precipitation()
         pres = pressure()
         loca = location()
+        dire = applydirection()
         self.render(
             "page.html",
             tair=json.dumps(tair),
             wspd=json.dumps(wspd),
             rain=json.dumps(rain),
             pres=json.dumps(pres),
-            loca=json.dumps(loca)
+            loca=json.dumps(loca),
+            dire=json.dumps(dire)
         )

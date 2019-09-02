@@ -1,6 +1,9 @@
 <component name="ProjectDictionaryState">
   <dictionary name="atichard">
     <words>
+      <w>applydirection</w>
+      <w>applyintersectionsum</w>
+      <w>createdict</w>
       <w>csvfile</w>
       <w>csvinput</w>
       <w>eqfeed</w>
@@ -10,6 +13,7 @@
       <w>hoba</w>
       <w>holl</w>
       <w>holla</w>
+      <w>latlong</w>
       <w>linechart</w>
       <w>loca</w>
       <w>mang</w>
@@ -19,6 +23,7 @@
       <w>stid</w>
       <w>stylers</w>
       <w>tair</w>
+      <w>timelist</w>
       <w>wspd</w>
     </words>
   </dictionary>
